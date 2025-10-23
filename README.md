@@ -53,3 +53,10 @@ The system is **fully containerized with Docker**, allowing easy local developme
 | **Deployment** | Docker Compose (local), Render / Heroku (cloud) |
 
 ---
+📜 License
+
+This project is open-source under the MIT License
+
+---
+📧 Email: anhnguyenhaii2309@gmail.com
+🐙 GitHub: @haianh06
